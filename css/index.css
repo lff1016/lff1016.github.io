@@ -3234,6 +3234,7 @@ blockquote footer cite:before {
   padding: 2rem 1rem;
   color: var(--light-grey);
   text-align: center;
+  background-color: #1873a2;
 }
 #footer-wrap a {
   color: var(--light-grey);
